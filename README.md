@@ -1,4 +1,4 @@
-# Winget-export-to-bat
+# Winget list to install
 Export Winget list to batch file.
 Generates a bat file to reinstall all currently installed programs with winget.
 ## Usage
