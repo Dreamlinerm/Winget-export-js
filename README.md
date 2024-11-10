@@ -7,8 +7,3 @@
 node run.js
 ```
 Run install.bat as administrator
-
-
-# Generates
-- install.bat - Install all programs
-- Unkown.txt - Programs not found by winget
