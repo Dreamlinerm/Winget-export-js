@@ -1,4 +1,4 @@
-# Winget-export-js
+# Winget-export-to-bat
  Generate a bat file to reinstall all programs with winget list
 ## Usage
 
