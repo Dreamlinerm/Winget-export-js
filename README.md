@@ -15,3 +15,12 @@ Run install.bat as administrator
 
 - install.bat - Install all programs
 - unknown.txt - All unavailable packages
+
+
+### Dev
+
+To Package the python script use pyinstaller
+
+```bash
+pyinstaller -F yourprogram.py
+```
