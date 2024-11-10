@@ -1,0 +1,389 @@
+   -                                                                                                                            -    \                                                                                                                         Name                                      ID                                        Version          Verfügbar Quelle
+---------------------------------------------------------------------------------------------------------------------
+Bitwarden                                 Bitwarden.Bitwarden                       2024.10.2                  winget
+NVM for Windows                           CoreyButler.NVMforWindows                 Unknown          1.1.12    winget
+Vortex                                    NexusMods.Vortex                          1.12.6                     winget
+7-Zip 24.08 (x64)                         7zip.7zip                                 24.08                      winget
+Android Studio                            ARP\Machine\X64\Android Studio            2022.3                     
+Autorun Organizer Version 5.37            ChemTableSoftware.AutorunOrganizer        5.37                       winget
+CPUID CPU-Z 2.11                          CPUID.CPU-Z                               2.11                       winget
+CPUID HWMonitor 1.55                      CPUID.HWMonitor                           1.55                       winget
+Cheat Engine 7.4                          ARP\Machine\X64\Cheat Engine_is1          Unknown                    
+CrystalDiskInfo 9.4.4                     CrystalDewWorld.CrystalDiskInfo           9.4.4                      winget
+CrystalDiskMark 8.0.5                     CrystalDewWorld.CrystalDiskMark           8.0.5                      winget
+Docker Desktop                            Docker.DockerDesktop                      4.34.3           4.35.1    winget
+Git                                       Git.Git                                   2.47.0           2.47.0.2  winget
+Google Play Spiele (Beta)                 Google.PlayGames.Beta                     24.10.538.6                winget
+HWiNFO® 64                                REALiX.HWiNFO                             8.12             8.14      winget
+HakuNeko Desktop                          HakuNeko.HakuNeko                         6.1.7                      winget
+Mozilla Firefox (x64 en-US)               Mozilla.Firefox                           132.0.1                    winget
+Mozilla Maintenance Service               ARP\Machine\X64\MozillaMaintenanceService 129.0.1                    
+Notepad++ (64-bit x64)                    Notepad++.Notepad++                       8.7              8.7.1     winget
+Microsoft 365 Apps for Enterprise - de-de Microsoft.Office                          16.0.18129.20116           winget
+Microsoft 365 Apps for enterprise - en-us Microsoft.Office                          16.0.18129.20116           winget
+Microsoft OneDrive                        Microsoft.OneDrive                        24.201.1006.0005           winget
+Parsec Virtual Display Driver             Parsec.ParsecVDD                          0.45.0.0                   winget
+Riot Vanguard                             ARP\Machine\X64\Riot Vanguard             Unknown                    
+When the Darkness comes                   ARP\Machine\X64\Steam App 1021950         Unknown                    
+Poly Bridge 2                             ARP\Machine\X64\Steam App 1062160         Unknown                    
+Inscryption                               ARP\Machine\X64\Steam App 1092790         Unknown                    
+RISK: Global Domination                   ARP\Machine\X64\Steam App 1128810         Unknown                    
+Dominion                                  ARP\Machine\X64\Steam App 1131620         Unknown                    
+Hades II                                  ARP\Machine\X64\Steam App 1145350         Unknown                    
+Teardown                                  ARP\Machine\X64\Steam App 1167630         Unknown                    
+Sea of Thieves                            ARP\Machine\X64\Steam App 1172620         Unknown                    
+Cookie Clicker                            ARP\Machine\X64\Steam App 1454400         Unknown                    
+PICO PARK                                 ARP\Machine\X64\Steam App 1509960         Unknown                    
+ROUNDS                                    ARP\Machine\X64\Steam App 1557740         Unknown                    
+Palworld                                  ARP\Machine\X64\Steam App 1623730         Unknown                    
+Stumble Guys                              ARP\Machine\X64\Steam App 1677740         Unknown                    
+Super Auto Pets                           ARP\Machine\X64\Steam App 1714040         Unknown                    
+Crab Game                                 ARP\Machine\X64\Steam App 1782210         Unknown                    
+The Farmer Was Replaced                   ARP\Machine\X64\Steam App 2060160         Unknown                    
+Ghost of Tsushima DIRECTOR'S CUT          ARP\Machine\X64\Steam App 2215430         Unknown                    
+Black Myth: Wukong                        ARP\Machine\X64\Steam App 2358720         Unknown                    
+Balatro                                   ARP\Machine\X64\Steam App 2379780         Unknown                    
+Plague Inc: Evolved                       ARP\Machine\X64\Steam App 246620          Unknown                    
+LOCKDOWN Protocol                         ARP\Machine\X64\Steam App 2780980         Unknown                    
+Brawlhalla                                ARP\Machine\X64\Steam App 291550          Unknown                    
+ShellShock Live                           ARP\Machine\X64\Steam App 326460          Unknown                    
+Keep Talking and Nobody Explodes          ARP\Machine\X64\Steam App 341800          Unknown                    
+Tom Clancy's Rainbow Six Siege            ARP\Machine\X64\Steam App 359550          Unknown                    
+ASTRONEER                                 ARP\Machine\X64\Steam App 361420          Unknown                    
+Software Inc.                             ARP\Machine\X64\Steam App 362620          Unknown                    
+Skyrim Script Extender (SKSE)             ARP\Machine\X64\Steam App 365720          Unknown                    
+Stardew Valley                            ARP\Machine\X64\Steam App 413150          Unknown                    
+Wallpaper Engine                          ARP\Machine\X64\Steam App 431960          Unknown                    
+Satisfactory                              ARP\Machine\X64\Steam App 526870          Unknown                    
+HELLDIVERSTM 2                            ARP\Machine\X64\Steam App 553850          Unknown                    
+Golf It!                                  ARP\Machine\X64\Steam App 571740          Unknown                    
+Raft                                      ARP\Machine\X64\Steam App 648800          Unknown                    
+Stick Fight: The Game                     ARP\Machine\X64\Steam App 674940          Unknown                    
+Counter-Strike 2                          ARP\Machine\X64\Steam App 730             Unknown                    
+Hasbro's BATTLESHIP                       ARP\Machine\X64\Steam App 893050          Unknown                    
+Nidhogg                                   ARP\Machine\X64\Steam App 94400           Unknown                    
+Bloons TD 6                               ARP\Machine\X64\Steam App 960090          Unknown                    
+Surfshark                                 Surfshark.Surfshark                       5.10.2.999       5.11.1.9… winget
+TeamSpeak 3 Client                        TeamSpeakSystems.TeamSpeakClient          3.6.2                      winget
+TeamViewer                                TeamViewer.TeamViewer                     15.58.5          15.59.3   winget
+TreeSize Free V4.7.3 (64 bit)             JAMSoftware.TreeSize.Free                 4.7.3                      winget
+Unity Hub 3.9.1                           Unity.UnityHub                            3.9.1            3.10.0    winget
+VLC Plus Player                           ARP\Machine\X64\VLC Plus Player           3.0.16                     
+WSA PacMan version 1.5.0                  alesimula.wsa_pacman                      1.5.0                      winget
+Mendeley Reference Manager 2.122.1        Elsevier.MendeleyReferenceManager         2.122.1          2.125.2   winget
+windPRO 4.1.254                           ARP\Machine\X64\windPRO 4.1.254 4.1.254   4.1.254                    
+Java(TM) SE Development Kit 19.0.1 (64-b… Oracle.JDK.17                             19.0.1.0                   winget
+Java(TM) SE Development Kit 17.0.6 (64-b… Oracle.JDK.17                             17.0.6.0                   winget
+Java(TM) SE Development Kit 14.0.2 (64-b… Oracle.JDK.17                             14.0.2.0                   winget
+Java(TM) SE Development Kit 11.0.17 (64-… Oracle.JDK.17                             11.0.17.0                  winget
+BabelEdit                                 ARP\Machine\X64\{0A527209-A3EA-4D65-9598… 3.0.1                      
+FACEIT Anti-Cheat                         FACEITLTD.FACEITAC                        2.1                        winget
+Microsoft Visual C++ 2010  x64 Redistrib… Microsoft.VCRedist.2010.x64               10.0.40219                 winget
+MongoDB 8.0.1 2008R2Plus SSL (64 bit)     MongoDB.Server                            8.0.1            8.0.3     winget
+Windows Subsystem for Linux Update        ARP\Machine\X64\{36EF257E-21D5-44F7-8451… 5.10.16                    
+Logitech G HUB                            Logitech.GHUB                             2024.8.641856              winget
+Microsoft Visual C++ 2008 Redistributabl… Microsoft.VCRedist.2008.x64               9.0.30729.6161             winget
+Microsoft Visual Studio Installer         ARP\Machine\X64\{6F320B93-EE3C-4826-85E0… 3.11.2180.21897            
+Java 8 Update 421 (64-bit)                Oracle.JavaRuntimeEnvironment             8.0.4210.9       8.0.4310… winget
+AusweisApp                                Governikus.AusweisApp2                    2.2.1            2.2.2     winget
+MongoDB Shell                             MongoDB.Shell                             2.3.2            2.3.3     winget
+NVIDIA Grafiktreiber 566.03               ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC… 566.03                     
+NVIDIA GeForce Experience 3.28.0.417      Nvidia.GeForceExperience                  3.28.0.417                 winget
+NVIDIA PhysX-Systemsoftware 9.23.1019     Nvidia.PhysX                              9.23.1019                  winget
+NVIDIA FrameView SDK 1.3.8513.32290073    ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC… 1.3.8513.322900…           
+NVIDIA HD-Audiotreiber 1.4.2.6            ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC… 1.4.2.6                    
+Microsoft Update Health Tools             ARP\Machine\X64\{C6FD611E-7EFE-488C-A0E0… 5.72.0.0                   
+Gurobi 11.0.1 (64 bit)                    ARP\Machine\X64\{D74BBF3D-9ECE-2CDC-950D… 11.0.1.0                   
+PuTTY release 0.81 (64-bit)               PuTTY.PuTTY                               0.81.0.0                   winget
+GitHub CLI                                GitHub.cli                                2.59.0           2.61.0    winget
+Node.js                                   OpenJS.NodeJS.LTS                         20.18.0          22.11.0   winget
+MSI Kombustor 4.1.13.0 (64-bit)           MSI.Kombustor.4                           Unknown          4.1.29.0  winget
+Visual Studio Build Tools 2022            Microsoft.VisualStudio.2022.BuildTools    17.11.5                    winget
+AMD Chipset Software                      ARP\Machine\X86\AMD_Chipset_IODrivers     5.01.29.2026               
+Adobe Creative Cloud                      Adobe.CreativeCloud                       6.4.0.361                  winget
+Adobe Genuine Service                     ARP\Machine\X86\AdobeGenuineService       8.5.1.3                    
+AnyDesk                                   AnyDeskSoftwareGmbH.AnyDesk               ad 8.1.0                   winget
+Battlelog Web Plugins                     ARP\Machine\X86\Battlelog Web Plugins     2.3.0                      
+Cisco Secure Client - AnyConnect VPN      ARP\Machine\X86\Cisco Secure Client - An… 5.1.3.62                   
+DownloadHelper CoApp                      ACLAP.DownloadHelperCoApp                 2.0.19.0                   winget
+ESN Sonar                                 ARP\Machine\X86\ESN Sonar-0.70.4          0.70.4                     
+EaseUS Todo Backup Home 2024              EaseUS.TodoBackup                         2024.9                     winget
+Samsung Easy Wireless Setup               ARP\Machine\X86\Easy Wireless Setup       3.70.18.0                  
+FSUIPC7 v7.2.10                           ARP\Machine\X86\FSUIPC7                   v7.2.10                    
+Fraps                                     ARP\Machine\X86\Fraps                     Unknown                    
+Google Chrome                             Google.Chrome.EXE                         130.0.6723.117             winget
+IntelliJ IDEA Community Edition 2024.2.3  JetBrains.IntelliJIDEA.Community          2024.2.3         2024.2.4  winget
+IntelliJ IDEA Community Edition 2023.3.2  JetBrains.IntelliJIDEA.Community          2023.3.2                   winget
+MacroRecorder v2.0.87                     ARP\Machine\X86\MacroRecorder_is1         2.0.87                     
+Mendeley Desktop 1.19.8                   ARP\Machine\X86\Mendeley Desktop          1.19.8                     
+Microsoft Edge                            Microsoft.Edge                            130.0.2849.80              winget
+Microsoft Edge WebView2-Laufzeit          Microsoft.EdgeWebView2Runtime             130.0.2849.56              winget
+OBS Studio                                OBSProject.OBSStudio                      30.2.3                     winget
+Overwolf                                  ARP\Machine\X86\Overwolf                  0.243.1.1                  
+Adobe Premiere Elements 2022              ARP\Machine\X86\PRE_20_4                  20.0                       
+Adobe Photoshop Elements 2022             ARP\Machine\X86\PSE_20_4                  20.0                       
+Parsec                                    Parsec.Parsec                             > 150.95.1.0               winget
+ProM 6.13                                 ARP\Machine\X86\ProM 6.13 Regular         Regular                    
+RivaTuner Statistics Server 7.3.6         Guru3D.RTSS                               7.3.6                      winget
+Razer Synapse                             ARP\Machine\X86\Razer Synapse             3.8.1231.120811            
+Rockstar Games Launcher                   ARP\Machine\X86\Rockstar Games Launcher   1.0.92.2003                
+Rockstar Games Social Club                ARP\Machine\X86\Rockstar Games Social Cl… 2.3.3.1                    
+SCIPOptSuite 9.0.0                        ARP\Machine\X86\SCIPOptSuite 9.0.0        9.0.0                      
+Samsung Easy Printer Manager              ARP\Machine\X86\Samsung Easy Printer Man… 2.00.01.34                 
+SpyderXPro                                ARP\Machine\X86\SpyderXPro                Unknown                    
+Steam                                     Valve.Steam                               2.10.91.91                 winget
+Unity 2021.3.34f1                         Unity.Unity.2020                          2021.3.34f1                winget
+Unity 2021.3.32f1                         Unity.Unity.2020                          2021.3.32f1                winget
+Unity 2021.3.28f1                         Unity.Unity.2020                          2021.3.28f1                winget
+Ubisoft Connect                           Ubisoft.Connect                           157.1.11142      158.0.0.… winget
+XDefiant                                  ARP\Machine\X86\Uplay Install 15657       Unknown                    
+Far Cry 6                                 ARP\Machine\X86\Uplay Install 5266        Unknown                    
+Trackmania                                ARP\Machine\X86\Uplay Install 5595        Unknown                    
+Wrye Bash                                 ARP\Machine\X86\Wrye Bash                 309.1.0.0.0                
+qBittorrent                               qBittorrent.qBittorrent                   5.0.0            5.0.1     winget
+WinSCP 6.3.5                              WinSCP.WinSCP                             6.3.5                      winget
+Microsoft Visual C++ 2013 Redistributabl… Microsoft.VCRedist.2013.x64               12.0.40664.0               winget
+Windows 11-Installationsassistent         Microsoft.WindowsInstallationAssistant    1.4.19041.1610             winget
+Microsoft .NET Runtime - 7.0.20 (x64)     Microsoft.DotNet.Runtime.7                7.0.20                     winget
+Microsoft .NET Runtime - 7.0.14 (x86)     Microsoft.DotNet.Runtime.7                7.0.14                     winget
+vs_CoreEditorFonts                        ARP\Machine\X86\{1851460E-0E63-4117-B5BA… 17.7.40001                 
+Microsoft GameInput                       ARP\Machine\X86\{1F2B6AF3-C260-8666-5950… 10.1.22621.3036            
+Microsoft Windows Desktop Runtime - 8.0.… Microsoft.DotNet.DesktopRuntime.8         8.0.10                     winget
+Microsoft Windows Desktop Runtime - 5.0.… Microsoft.DotNet.DesktopRuntime.8         < 8.0.0                    winget
+Microsoft Windows Desktop Runtime - 3.1.… Microsoft.DotNet.DesktopRuntime.8         < 8.0.0                    winget
+Microsoft Windows Desktop Runtime - 6.0.… Microsoft.DotNet.DesktopRuntime.8         < 8.0.0                    winget
+Microsoft ASP.NET Core 7.0.20 - Shared F… Microsoft.DotNet.AspNetCore.7             7.0.20                     winget
+Microsoft ASP.NET Core 7.0.19 - Shared F… Microsoft.DotNet.AspNetCore.7             7.0.19                     winget
+Samsung Magician                          ARP\Machine\X86\{29AE3F9F-7158-4ca7-B1ED… 8.1.0.800                  
+Microsoft Visual C++ 2012 Redistributabl… Microsoft.VCRedist.2012.x86               11.0.61030.0               winget
+Microsoft Windows Desktop Runtime - 7.0.… Microsoft.DotNet.DesktopRuntime.7         7.0.20                     winget
+Microsoft Windows Desktop Runtime - 7.0.… Microsoft.DotNet.DesktopRuntime.7         7.0.19                     winget
+NexiGo version 1.0                        ARP\Machine\X86\{36A02147-C92C-458A-8284… 1.0                        
+PowerToys (Preview) x64                   Microsoft.PowerToys                       0.86.0                     winget
+BattlefieldTM 2042                        ARP\Machine\X86\{45e281f3-1414-47ea-bb64… 1.0.78.14217               
+Microsoft Visual C++ 2015-2022 Redistrib… Microsoft.VCRedist.2015+.x86              14.34.31938.0    14.40.33… winget
+Texmaker 5.1.4 (64-bit)                   Texmaker.Texmaker                         5.1.4.0          6.0.0.0   winget
+Texmaker 5.1.3 (64-bit)                   Texmaker.Texmaker                         5.1.3.0                    winget
+Epic Online Services                      ARP\Machine\X86\{57A956AB-4BCC-45C6-9B40… 2.0.44.0                   
+osu!                                      ppy.osu                                   latest                     winget
+Windows Software Development Kit - Windo… ARP\Machine\X86\{71684ad3-afc2-4a65-9d45… 10.1.22621.3233            
+Teams Machine-Wide Installer              Microsoft.Teams.Classic                   1.4.0.19572      1.7.00.2… winget
+Microsoft Visual C++ 2015-2022 Redistrib… Microsoft.VCRedist.2015+.x64              14.40.33816.0              winget
+Realtek Ethernet Controller Driver        ARP\Machine\X86\{8833FFB6-5B0C-4764-81AA… 10.69.1121.2023            
+TechPowerUp GPU-Z                         TechPowerUp.GPU-Z                         2.60.0                     winget
+Futuremark SystemInfo                     ARP\Machine\X86\{93086761-C4E7-48FC-A090… 5.64.1188.0                
+Epic Games Launcher                       EpicGames.EpicGamesLauncher               1.3.93.0                   winget
+Microsoft Visual C++ 2013 Redistributabl… Microsoft.VCRedist.2013.x86               12.0.40664.0               winget
+Minecraft Launcher                        Mojang.MinecraftLauncher                  2.0.0.0                    winget
+Adobe Acrobat 2020                        ARP\Machine\X86\{AC76BA86-1033-FFFF-7760… 20.005.30730               
+Landing Rate Monitor                      ARP\Machine\X86\{B946315D-F716-492B-B914… 5.5.9                      
+Microsoft XNA Framework Redistributable … Microsoft.XNARedist                       4.0.30901.0                winget
+Microsoft Visual C++ 2010  x86 Redistrib… Microsoft.VCRedist.2010.x86               10.0.40219                 winget
+Realtek Audio Driver                      ARP\Machine\X86\{F132AF7F-7BCA-4EDE-8A7C… 6.0.9514.1                 
+Windows SDK AddOn                         ARP\Machine\X86\{F1E37C98-16B7-421F-BA33… 10.1.0.0                   
+SplashID Safe                             ARP\Machine\X86\{F3E7B605-E5D3-4451-A960… 8.4.1                      
+Microsoft Visual C++ 2012 Redistributabl… Microsoft.VCRedist.2012.x64               11.0.61030.0               winget
+EA app                                    ElectronicArts.EADesktop                  13.329.0.5842    13.335.0… winget
+FlyByWire Installer 3.4.0                 FlyByWireSimulations.FlyByWireSimulation… 3.4.0                      winget
+Discord                                   Discord.Discord                           1.0.9032         1.0.9169  winget
+FACEIT                                    FACEITLTD.FACEITClient                    1.31.18          2.0.24    winget
+GitHub Desktop                            GitHub.GitHubDesktop                      3.4.6            3.4.9     winget
+Grammarly for Windows                     Grammarly.Grammarly                       1.2.107.1495     1.2.113.… winget
+MongoDB Compass                           MongoDB.Compass.Full                      1.31.0           1.44.6.0  winget
+Thunderstore Mod Manager                  ARP\User\X64\Overwolf_ahpflogoookodlegoj… 1.43.0                     
+CurseForge                                ARP\User\X64\Overwolf_cchhcaiapeikjbdbpf… 0.249.2.1                  
+R6 Tracker                                ARP\User\X64\Overwolf_ekhcackbfanheaceic… 3.6.2                      
+Valorant Tracker                          ARP\User\X64\Overwolf_ipmlnnogholfmdmenf… 1.20.1                     
+Postman x86_64 11.17.0                    Postman.Postman                           11.17.0          11.19.0   winget
+RapidMiner Studio                         ARP\User\X64\RapidMiner Studio            10.3.1.0                   
+VALORANT                                  ARP\User\X64\Riot Game valorant.live      Unknown                    
+Spotify                                   Spotify.Spotify                           1.2.49.439.gfae… 1.2.50.3… winget
+Zoom Workplace                            Zoom.Zoom.EXE                             6.2.3 (47507)    6.2.6 (4… winget
+Vaydeer keyboard 1.2.0                    ARP\User\X64\a969c368-d07a-5620-a9de-cec… 1.2.0                      
+GitKraken                                 Axosoft.GitKraken                         10.4.0           10.4.1    winget
+Slack                                     SlackTechnologies.Slack                   4.40.133         4.41.97   winget
+vPilot                                    ARP\User\X64\vPilot                       3.5.2                      
+Telegram Desktop                          Telegram.TelegramDesktop                  5.6.3            5.7.2     winget
+REDlauncher                               ARP\User\X64\{7258BA11-600C-430E-A759-27… Unknown                    
+Microsoft Visual Studio Code (User)       Microsoft.VisualStudioCode                1.95.2                     winget
+Wintoys                                   MSIX\11413PtruceanBogdan.Wintoys_1.3.15.… 1.3.15.0                   
+Crunchyroll                               MSIX\15EF7777.Crunchyroll_2.0.5.0_neutra… 2.0.5.0                    
+MyAnimeList 10                            MSIX\30846TommasoScalici.MyAnimeListClie… 2.1.1.0                    
+WhatsApp                                  MSIX\5319275A.WhatsAppDesktop_2.2444.5.0… 2.2444.5.0                 
+MALClient                                 MSIX\6252Drutol.MALClient_5.5.17.0_x64__… 5.5.17.0                   
+MSI Center                                MSIX\9426MICRO-STARINTERNATION.MSICenter… 2.0.42.0                   
+Adobe Notification Client                 MSIX\AdobeNotificationClient_6.0.0.1_x86… 6.0.0.1                    
+Ubuntu on Windows                         MSIX\CanonicalGroupLimited.UbuntuonWindo… 2004.2022.1.0              
+Microsoft Clipchamp                       MSIX\Clipchamp.Clipchamp_3.1.11820.0_neu… 3.1.11820.0                
+Microsoft Teams                           Microsoft.Teams                           24257.205.3165.… 24277.35… winget
+Minecraft Launcher                        MSIX\Microsoft.4297127D64EC6_2.1.3.0_x64… 2.1.3.0                    
+AV1 Video Extension                       MSIX\Microsoft.AV1VideoExtension_1.2.233… 1.2.2331.0                 
+AVC Encoder Video Extension               MSIX\Microsoft.AVCEncoderVideoExtension_… 1.1.3.0                    
+Microsoft Advertising SDK for XAML        MSIX\Microsoft.Advertising.Xaml_10.1811.… 10.1811.1.0                
+Microsoft Advertising SDK for XAML        MSIX\Microsoft.Advertising.Xaml_10.1811.… 10.1811.1.0                
+Verbesserungen an der Windows-Anwendungs… MSIX\Microsoft.ApplicationCompatibilityE… 1.2410.5.0                 
+Nachrichten                               MSIX\Microsoft.BingNews_4.56.242.0_x64__… 4.56.242.0                 
+Websuche von Microsoft Bing               MSIX\Microsoft.BingSearch_1.1.0.0_x64__8… 1.1.0.0                    
+MSN Wetter                                MSIX\Microsoft.BingWeather_4.53.62621.0_… 4.53.62621.0               
+App-Installer                             Microsoft.AppInstaller                    1.24.25180.0               winget
+DirectX                                   MSIX\Microsoft.DirectXRuntime_9.29.1974.… 9.29.1974.0                
+DirectX                                   MSIX\Microsoft.DirectXRuntime_9.29.1974.… 9.29.1974.0                
+Xbox                                      MSIX\Microsoft.GamingApp_2411.1001.5.0_x… 2411.1001.5.0              
+Gaming Services                           MSIX\Microsoft.GamingServices_25.95.1001… 25.95.1001.0               
+Hilfe anfordern                           MSIX\Microsoft.GetHelp_10.2409.22951.0_x… 10.2409.22951.0            
+HEIF Image Extensions                     MSIX\Microsoft.HEIFImageExtension_1.2.3.… 1.2.3.0                    
+Ink.Handwriting.Main.de-DE.1.0            MSIX\Microsoft.Ink.Handwriting.Main.de-D… 0.237.110.0                
+Ink.Handwriting.de-DE.1.0                 MSIX\Microsoft.Ink.Handwriting.de-DE.1.0… 0.598.1811.0               
+Ink.Handwriting.de-DE.1.0                 MSIX\Microsoft.Ink.Handwriting.de-DE.1.0… 0.598.1811.0               
+Deutsch Local Experience Pack             MSIX\Microsoft.LanguageExperiencePackde-… 26100.22.42.0              
+MPEG-2-Videoerweiterung                   MSIX\Microsoft.MPEG2VideoExtension_1.0.6… 1.0.61931.0                
+Paint 3D                                  MSIX\Microsoft.MSPaint_6.2408.2027.0_x64… 6.2408.2027.0              
+3D-Viewer                                 MSIX\Microsoft.Microsoft3DViewer_7.2407.… 7.2407.16012.0             
+Microsoft Edge                            MSIX\Microsoft.MicrosoftEdge.Stable_130.… 130.0.2849.46              
+PC Manager                                MSIX\Microsoft.MicrosoftPCManager_3.14.1… 3.14.10.0                  
+Solitaire & Casual Games                  MSIX\Microsoft.MicrosoftSolitaireCollect… 4.21.11061.0               
+Minecraft for Windows                     MSIX\Microsoft.MinecraftUWP_1.21.4401.0_… 1.21.4401.0                
+Mixed Reality-Portal                      MSIX\Microsoft.MixedReality.Portal_2000.… 2000.21051.1282…           
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.1.2_… 1.2.23231.0                
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.1.2_… 1.2.23231.0                
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.1.3_… 1.3.24211.0                
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.1.3_… 1.3.24211.0                
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.1.6_… 1.6.27413.0                
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.1.6_… 1.6.27413.0                
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.1.7_… 1.7.27413.0                
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.1.7_… 1.7.27413.0                
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.2.2_… 2.2.29512.0                
+Microsoft .Net Native Framework Package … MSIX\Microsoft.NET.Native.Framework.2.2_… 2.2.29512.0                
+Microsoft .Net Native Runtime Package 1.1 MSIX\Microsoft.NET.Native.Runtime.1.1_1.… 1.1.23406.0                
+Microsoft .Net Native Runtime Package 1.1 MSIX\Microsoft.NET.Native.Runtime.1.1_1.… 1.1.23406.0                
+Microsoft .Net Native Runtime Package 1.4 MSIX\Microsoft.NET.Native.Runtime.1.4_1.… 1.4.24201.0                
+Microsoft .Net Native Runtime Package 1.4 MSIX\Microsoft.NET.Native.Runtime.1.4_1.… 1.4.24201.0                
+Microsoft .Net Native Runtime Package 1.6 MSIX\Microsoft.NET.Native.Runtime.1.6_1.… 1.6.24903.0                
+Microsoft .Net Native Runtime Package 1.6 MSIX\Microsoft.NET.Native.Runtime.1.6_1.… 1.6.24903.0                
+Microsoft .Net Native Runtime Package 1.7 MSIX\Microsoft.NET.Native.Runtime.1.7_1.… 1.7.27422.0                
+Microsoft .Net Native Runtime Package 1.7 MSIX\Microsoft.NET.Native.Runtime.1.7_1.… 1.7.27422.0                
+Microsoft .Net Native Runtime Package 2.2 MSIX\Microsoft.NET.Native.Runtime.2.2_2.… 2.2.28604.0                
+Microsoft .Net Native Runtime Package 2.2 MSIX\Microsoft.NET.Native.Runtime.2.2_2.… 2.2.28604.0                
+OneDrive                                  MSIX\Microsoft.OneDriveSync_24201.1006.5… 24201.1006.5.0             
+Outlook for Windows                       MSIX\Microsoft.OutlookForWindows_1.2024.… 1.2024.1023.300            
+Paint                                     MSIX\Microsoft.Paint_11.2408.30.0_x64__8… 11.2408.30.0               
+Microsoft Kontakte                        MSIX\Microsoft.People_10.2202.100.0_x64_… 10.2202.100.0              
+Power Automate                            MSIX\Microsoft.PowerAutomateDesktop_11.2… 11.2410.202.0              
+PowerToys FileLocksmith Context Menu      MSIX\Microsoft.PowerToys.FileLocksmithCo… 0.86.0.0                   
+PowerToys ImageResizer Context Menu       MSIX\Microsoft.PowerToys.ImageResizerCon… 0.86.0.0                   
+PowerToys PowerRename Context Menu        MSIX\Microsoft.PowerToys.PowerRenameCont… 0.86.0.0                   
+ProjectReunion.0.8                        MSIX\Microsoft.ProjectReunion.0.8_8003.2… 8003.236.617.0             
+ProjectReunion.0.8                        MSIX\Microsoft.ProjectReunion.0.8_8003.2… 8003.236.617.0             
+Raw Image Extension                       MSIX\Microsoft.RawImageExtension_2.5.3.0… 2.5.3.0                    
+Snipping Tool                             MSIX\Microsoft.ScreenSketch_11.2409.25.0… 11.2409.25.0               
+Windows-Sicherheit                        MSIX\Microsoft.SecHealthUI_1000.26100.1.… 1000.26100.1.0             
+Microsoft Engagement Framework            MSIX\Microsoft.Services.Store.Engagement… 10.0.23012.0               
+Microsoft Engagement Framework            MSIX\Microsoft.Services.Store.Engagement… 10.0.23012.0               
+Skype                                     MSIX\Microsoft.SkypeApp_15.131.3202.0_x6… 15.131.3202.0              
+Start Experiences-App                     MSIX\Microsoft.StartExperiencesApp_1.1.1… 1.1.181.0                  
+Host der Store-Benutzeroberfläche         MSIX\Microsoft.StorePurchaseApp_22408.14… 22408.1401.0.0             
+Microsoft To Do                           MSIX\Microsoft.Todos_2.114.7122.0_x64__8… 2.114.7122.0               
+Microsoft.UI.Xaml.2.0                     MSIX\Microsoft.UI.Xaml.2.0_2.1810.18004.… 2.1810.18004.0             
+Microsoft.UI.Xaml.2.0                     MSIX\Microsoft.UI.Xaml.2.0_2.1810.18004.… 2.1810.18004.0             
+Microsoft.UI.Xaml.2.1                     MSIX\Microsoft.UI.Xaml.2.1_2.11906.6001.… 2.11906.6001.0             
+Microsoft.UI.Xaml.2.1                     MSIX\Microsoft.UI.Xaml.2.1_2.11906.6001.… 2.11906.6001.0             
+Microsoft.UI.Xaml.2.3                     MSIX\Microsoft.UI.Xaml.2.3_2.32002.13001… 2.32002.13001.0            
+Microsoft.UI.Xaml.2.3                     MSIX\Microsoft.UI.Xaml.2.3_2.32002.13001… 2.32002.13001.0            
+Microsoft.UI.Xaml.2.4                     MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001.… 2.42007.9001.0             
+Microsoft.UI.Xaml.2.4                     MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001.… 2.42007.9001.0             
+Microsoft.UI.Xaml.2.6                     MSIX\Microsoft.UI.Xaml.2.6_2.62112.3002.… 2.62112.3002.0             
+Microsoft.UI.Xaml.2.6                     MSIX\Microsoft.UI.Xaml.2.6_2.62112.3002.… 2.62112.3002.0             
+Microsoft.UI.Xaml.2.7                     Microsoft.UI.Xaml.2.7                     7.2409.9001.0              winget
+Microsoft.UI.Xaml.2.7                     Microsoft.UI.Xaml.2.7                     7.2409.9001.0              winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                     8.2310.30001.0             winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                     8.2310.30001.0             winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                     8.2306.22001.0             winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                     8.2305.5001.0              winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                     8.2304.12003.0             winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                     8.2212.15002.0             winget
+Microsoft Visual C++ 2012 UWP Desktop Ru… MSIX\Microsoft.VCLibs.110.00.UWPDesktop_… 11.0.61135.0               
+Microsoft Visual C++ 2012 UWP Desktop Ru… MSIX\Microsoft.VCLibs.110.00.UWPDesktop_… 11.0.61135.0               
+Microsoft Visual C++ 2013 UWP Desktop Ru… MSIX\Microsoft.VCLibs.120.00.UWPDesktop_… 12.0.40653.0               
+Microsoft Visual C++ 2013 UWP Desktop Ru… MSIX\Microsoft.VCLibs.120.00.UWPDesktop_… 12.0.40653.0               
+Microsoft Visual C++ Runtime Package      MSIX\Microsoft.VCLibs.120.00_12.0.21005.… 12.0.21005.1               
+Microsoft Visual C++ Runtime Package      MSIX\Microsoft.VCLibs.120.00_12.0.21005.… 12.0.21005.1               
+Microsoft Visual C++ 2015 UWP Desktop Ru… Microsoft.VCLibs.Desktop.14               14.0.33728.0               winget
+Microsoft Visual C++ 2015 UWP Desktop Ru… Microsoft.VCLibs.Desktop.14               14.0.33728.0               winget
+Microsoft Visual C++ 2015 UWP Desktop Ru… Microsoft.VCLibs.Desktop.14               14.0.33519.0               winget
+Microsoft Visual C++ 2015 UWP Desktop Ru… Microsoft.VCLibs.Desktop.14               14.0.33321.0               winget
+Microsoft Visual C++ 2015 UWP Desktop Ru… Microsoft.VCLibs.Desktop.14               14.0.32530.0               winget
+Microsoft Visual C++ 2015 UWP Runtime Pa… MSIX\Microsoft.VCLibs.140.00_14.0.27323.… 14.0.27323.0               
+Microsoft Visual C++ 2015 UWP Runtime Pa… MSIX\Microsoft.VCLibs.140.00_14.0.30035.… 14.0.30035.0               
+Microsoft Visual C++ 2015 UWP Runtime Pa… MSIX\Microsoft.VCLibs.140.00_14.0.30704.… 14.0.30704.0               
+Microsoft Visual C++ 2015 UWP Runtime Pa… MSIX\Microsoft.VCLibs.140.00_14.0.32530.… 14.0.32530.0               
+Microsoft Visual C++ 2015 UWP Runtime Pa… MSIX\Microsoft.VCLibs.140.00_14.0.33321.… 14.0.33321.0               
+Microsoft Visual C++ 2015 UWP Runtime Pa… MSIX\Microsoft.VCLibs.140.00_14.0.33519.… 14.0.33519.0               
+Microsoft Visual C++ 2015 UWP Runtime Pa… MSIX\Microsoft.VCLibs.140.00_14.0.33519.… 14.0.33519.0               
+VP9 Video Extensions                      MSIX\Microsoft.VP9VideoExtensions_1.1.45… 1.1.451.0                  
+Webmedienerweiterungen                    MSIX\Microsoft.WebMediaExtensions_1.1.12… 1.1.1295.0                 
+Webp Image Extensions                     MSIX\Microsoft.WebpImageExtension_1.1.17… 1.1.1711.0                 
+Widgets Platform Runtime                  MSIX\Microsoft.WidgetsPlatformRuntime_1.… 1.6.1.0                    
+Windows App Runtime DDLM 3.469.1654.0-x6  MSIX\Microsoft.WinAppRuntime.DDLM.3.469.… 3.469.1654.0               
+Windows App Runtime DDLM 3.469.1654.0-x8  MSIX\Microsoft.WinAppRuntime.DDLM.3.469.… 3.469.1654.0               
+Windows App Runtime DDLM 3000.934.1904.0… MSIX\Microsoft.WinAppRuntime.DDLM.3000.9… 3000.934.1904.0            
+Windows App Runtime DDLM 3000.934.1904.0… MSIX\Microsoft.WinAppRuntime.DDLM.3000.9… 3000.934.1904.0            
+Dev Home (Preview)                        Microsoft.DevHome                         0.1801.640.0               winget
+Microsoft Fotos                           MSIX\Microsoft.Windows.Photos_2024.11100… 2024.11100.1600…           
+Windows-Uhr                               MSIX\Microsoft.WindowsAlarms_11.2408.9.0… 11.2408.9.0                
+WindowsAppRuntime.1.0                     MSIX\Microsoft.WindowsAppRuntime.1.0_4.5… 4.528.1755.0               
+WindowsAppRuntime.1.0                     MSIX\Microsoft.WindowsAppRuntime.1.0_4.5… 4.528.1755.0               
+WindowsAppRuntime.1.2                     MSIX\Microsoft.WindowsAppRuntime.1.2_200… 2000.777.2143.0            
+WindowsAppRuntime.1.2                     MSIX\Microsoft.WindowsAppRuntime.1.2_200… 2000.802.31.0              
+WindowsAppRuntime.1.2                     MSIX\Microsoft.WindowsAppRuntime.1.2_200… 2000.802.31.0              
+WindowsAppRuntime.1.3                     MSIX\Microsoft.WindowsAppRuntime.1.3_300… 3000.882.2207.0            
+WindowsAppRuntime.1.3                     MSIX\Microsoft.WindowsAppRuntime.1.3_300… 3000.882.2207.0            
+WindowsAppRuntime.1.3                     MSIX\Microsoft.WindowsAppRuntime.1.3_300… 3000.934.1904.0            
+WindowsAppRuntime.1.3                     MSIX\Microsoft.WindowsAppRuntime.1.3_300… 3000.934.1904.0            
+WindowsAppRuntime.1.4                     MSIX\Microsoft.WindowsAppRuntime.1.4_400… 4000.1049.117.0            
+WindowsAppRuntime.1.4                     MSIX\Microsoft.WindowsAppRuntime.1.4_400… 4000.1082.2259.0           
+WindowsAppRuntime.1.4                     MSIX\Microsoft.WindowsAppRuntime.1.4_400… 4000.1136.2333.0           
+WindowsAppRuntime.1.4                     MSIX\Microsoft.WindowsAppRuntime.1.4_400… 4000.1309.2056.0           
+WindowsAppRuntime.1.4                     MSIX\Microsoft.WindowsAppRuntime.1.4_400… 4000.1309.2056.0           
+WindowsAppRuntime.1.5                     MSIX\Microsoft.WindowsAppRuntime.1.5_500… 5001.119.156.0             
+WindowsAppRuntime.1.5                     MSIX\Microsoft.WindowsAppRuntime.1.5_500… 5001.159.55.0              
+WindowsAppRuntime.1.5                     MSIX\Microsoft.WindowsAppRuntime.1.5_500… 5001.178.1908.0            
+WindowsAppRuntime.1.5                     MSIX\Microsoft.WindowsAppRuntime.1.5_500… 5001.214.1843.0            
+WindowsAppRuntime.1.5                     MSIX\Microsoft.WindowsAppRuntime.1.5_500… 5001.275.500.0             
+WindowsAppRuntime.1.5                     MSIX\Microsoft.WindowsAppRuntime.1.5_500… 5001.275.500.0             
+WindowsAppRuntime.1.6                     MSIX\Microsoft.WindowsAppRuntime.1.6_600… 6000.266.2241.0            
+WindowsAppRuntime.1.6                     MSIX\Microsoft.WindowsAppRuntime.1.6_600… 6000.266.2241.0            
+WindowsAppRuntime.Singleton               MSIX\Microsoft.WindowsAppRuntime.Singlet… 3.469.1654.0               
+Windows-Rechner                           MSIX\Microsoft.WindowsCalculator_11.2409… 11.2409.0.0                
+Windows-Kamera                            MSIX\Microsoft.WindowsCamera_2024.2408.1… 2024.2408.1.0              
+Feedback-Hub                              MSIX\Microsoft.WindowsFeedbackHub_1.2410… 1.2410.25104.0             
+Windows-Karten                            MSIX\Microsoft.WindowsMaps_11.2403.4.0_x… 11.2403.4.0                
+Windows-Editor                            MSIX\Microsoft.WindowsNotepad_11.2409.9.… 11.2409.9.0                
+Windows-Audiorekorder                     MSIX\Microsoft.WindowsSoundRecorder_11.2… 11.2408.6.0                
+Microsoft Store                           MSIX\Microsoft.WindowsStore_22409.1401.5… 22409.1401.5.0             
+Windows-Terminal                          Microsoft.WindowsTerminal                 1.21.2911.0                winget
+Windows Package Manager Source (winget) … MSIX\Microsoft.Winget.Source_2024.1110.1… 2024.1110.1517.…           
+Xbox TCUI                                 MSIX\Microsoft.Xbox.TCUI_1.24.10001.0_x6… 1.24.10001.0               
+Xbox Console Companion                    MSIX\Microsoft.XboxApp_48.104.4001.0_x64… 48.104.4001.0              
+Xbox Game Bar Plugin                      MSIX\Microsoft.XboxGameOverlay_1.54.4001… 1.54.4001.0                
+Game Bar                                  MSIX\Microsoft.XboxGamingOverlay_7.224.9… 7.224.9242.0               
+Xbox Identity Provider                    MSIX\Microsoft.XboxIdentityProvider_12.1… 12.115.1001.0              
+Game Speech Window                        MSIX\Microsoft.XboxSpeechToTextOverlay_1… 1.97.17002.0               
+Smartphone-Link                           MSIX\Microsoft.YourPhone_1.24101.61.0_x6… 1.24101.61.0               
+Windows Medienwiedergabe                  MSIX\Microsoft.ZuneMusic_11.2409.11.0_x6… 11.2409.11.0               
+Filme & TV                                MSIX\Microsoft.ZuneVideo_10.24081.10111.… 10.24081.10111.0           
+Schnellhilfe                              MSIX\MicrosoftCorporationII.QuickAssist_… 2.0.32.0                   
+WinAppRuntime.Main.1.3                    MSIX\MicrosoftCorporationII.WinAppRuntim… 3000.934.1904.0            
+WinAppRuntime.Main.1.5                    MSIX\MicrosoftCorporationII.WinAppRuntim… 5001.275.500.0             
+WinAppRuntime.Singleton                   MSIX\MicrosoftCorporationII.WinAppRuntim… 6000.266.2241.0            
+WindowsAppRuntime.Main.1.0                MSIX\MicrosoftCorporationII.WindowsAppRu… 4.528.1755.0               
+Windows-Subsystem für Linux               MSIX\MicrosoftCorporationII.WindowsSubsy… 2.3.24.0                   
+Windows Web Experience Pack               MSIX\MicrosoftWindows.Client.WebExperien… 524.30502.30.0             
+Geräteübergreifender Funktions-Host       MSIX\MicrosoftWindows.CrossDevice_1.2410… 1.24101.35.0               
+NVIDIA Control Panel                      MSIX\NVIDIACorp.NVIDIAControlPanel_8.1.9… 8.1.966.0                  
+Notepad++                                 MSIX\NotepadPlusPlus_1.0.0.0_neutral__7n… 1.0.0.0                    
+Python 3.9                                MSIX\PythonSoftwareFoundation.Python.3.9… 3.9.3568.0                 
+Realtek Audio Control                     MSIX\RealtekSemiconductorCorp.RealtekAud… 1.51.324.0                 
+Samsung Printer Experience                MSIX\SAMSUNGELECTRONICSCO.LTD.SamsungPri… 1.3.15.0                   
+SplashID Pro 9                            MSIX\SplashDataInc.5647079531662_9.3.8.0… 9.3.8.0                    
+DLSS Swapper                              MSIX\cc5a0fee-f182-4d02-a177-3c2f002b4f3… 0.9.3.0                    
+Mail und Kalender                         MSIX\microsoft.windowscommunicationsapps… 16005.14326.220…           

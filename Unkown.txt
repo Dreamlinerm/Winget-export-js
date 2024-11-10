@@ -1,0 +1,50 @@
+NVM for Windows                           CoreyButler.NVMforWindows                 Unknown          1.1.12    winget
+Cheat Engine 7.4                          ARP\Machine\X64\Cheat Engine_is1          Unknown                    
+Riot Vanguard                             ARP\Machine\X64\Riot Vanguard             Unknown                    
+When the Darkness comes                   ARP\Machine\X64\Steam App 1021950         Unknown                    
+Poly Bridge 2                             ARP\Machine\X64\Steam App 1062160         Unknown                    
+Inscryption                               ARP\Machine\X64\Steam App 1092790         Unknown                    
+RISK: Global Domination                   ARP\Machine\X64\Steam App 1128810         Unknown                    
+Dominion                                  ARP\Machine\X64\Steam App 1131620         Unknown                    
+Hades II                                  ARP\Machine\X64\Steam App 1145350         Unknown                    
+Teardown                                  ARP\Machine\X64\Steam App 1167630         Unknown                    
+Sea of Thieves                            ARP\Machine\X64\Steam App 1172620         Unknown                    
+Cookie Clicker                            ARP\Machine\X64\Steam App 1454400         Unknown                    
+PICO PARK                                 ARP\Machine\X64\Steam App 1509960         Unknown                    
+ROUNDS                                    ARP\Machine\X64\Steam App 1557740         Unknown                    
+Palworld                                  ARP\Machine\X64\Steam App 1623730         Unknown                    
+Stumble Guys                              ARP\Machine\X64\Steam App 1677740         Unknown                    
+Super Auto Pets                           ARP\Machine\X64\Steam App 1714040         Unknown                    
+Crab Game                                 ARP\Machine\X64\Steam App 1782210         Unknown                    
+The Farmer Was Replaced                   ARP\Machine\X64\Steam App 2060160         Unknown                    
+Ghost of Tsushima DIRECTOR'S CUT          ARP\Machine\X64\Steam App 2215430         Unknown                    
+Black Myth: Wukong                        ARP\Machine\X64\Steam App 2358720         Unknown                    
+Balatro                                   ARP\Machine\X64\Steam App 2379780         Unknown                    
+Plague Inc: Evolved                       ARP\Machine\X64\Steam App 246620          Unknown                    
+LOCKDOWN Protocol                         ARP\Machine\X64\Steam App 2780980         Unknown                    
+Brawlhalla                                ARP\Machine\X64\Steam App 291550          Unknown                    
+ShellShock Live                           ARP\Machine\X64\Steam App 326460          Unknown                    
+Keep Talking and Nobody Explodes          ARP\Machine\X64\Steam App 341800          Unknown                    
+Tom Clancy's Rainbow Six Siege            ARP\Machine\X64\Steam App 359550          Unknown                    
+ASTRONEER                                 ARP\Machine\X64\Steam App 361420          Unknown                    
+Software Inc.                             ARP\Machine\X64\Steam App 362620          Unknown                    
+Skyrim Script Extender (SKSE)             ARP\Machine\X64\Steam App 365720          Unknown                    
+Stardew Valley                            ARP\Machine\X64\Steam App 413150          Unknown                    
+Wallpaper Engine                          ARP\Machine\X64\Steam App 431960          Unknown                    
+Satisfactory                              ARP\Machine\X64\Steam App 526870          Unknown                    
+HELLDIVERSTM 2                            ARP\Machine\X64\Steam App 553850          Unknown                    
+Golf It!                                  ARP\Machine\X64\Steam App 571740          Unknown                    
+Raft                                      ARP\Machine\X64\Steam App 648800          Unknown                    
+Stick Fight: The Game                     ARP\Machine\X64\Steam App 674940          Unknown                    
+Counter-Strike 2                          ARP\Machine\X64\Steam App 730             Unknown                    
+Hasbro's BATTLESHIP                       ARP\Machine\X64\Steam App 893050          Unknown                    
+Nidhogg                                   ARP\Machine\X64\Steam App 94400           Unknown                    
+Bloons TD 6                               ARP\Machine\X64\Steam App 960090          Unknown                    
+MSI Kombustor 4.1.13.0 (64-bit)           MSI.Kombustor.4                           Unknown          4.1.29.0  winget
+Fraps                                     ARP\Machine\X86\Fraps                     Unknown                    
+SpyderXPro                                ARP\Machine\X86\SpyderXPro                Unknown                    
+XDefiant                                  ARP\Machine\X86\Uplay Install 15657       Unknown                    
+Far Cry 6                                 ARP\Machine\X86\Uplay Install 5266        Unknown                    
+Trackmania                                ARP\Machine\X86\Uplay Install 5595        Unknown                    
+VALORANT                                  ARP\User\X64\Riot Game valorant.live      Unknown                    
+REDlauncher                               ARP\User\X64\{7258BA11-600C-430E-A759-27… Unknown                    
