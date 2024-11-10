@@ -9,6 +9,23 @@ exec(
       console.log(err);
       return;
     }
+    // write file unknown.txt
+    fs.writeFile(
+      path.join(__dirname, "unknown.txt"),
+      stdout
+        .split("\n")
+        .map((line) => {
+          return line.split(": ")[1];
+        })
+        .join("\n"),
+      (err) => {
+        if (err) {
+          console.log(err);
+          return;
+        }
+        console.log("unknown.txt created");
+      }
+    );
     // read file List.json
     fs.readFile(path.join(__dirname, file_name), "utf8", (err, data) => {
       if (err) {
