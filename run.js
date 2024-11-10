@@ -23,7 +23,6 @@ exec(
           console.log(err);
           return;
         }
-        console.log("unknown.txt created");
       }
     );
     // read file List.json
@@ -41,7 +40,6 @@ exec(
         }
       );
       // write Packages to install.bat
-      console.log("Exported programs available through winget");
       fs.writeFile(
         path.join(__dirname, "install.bat"),
         "@echo off\n\n" + Packages.join("\n"),
@@ -50,16 +48,24 @@ exec(
             console.log(err);
             return;
           }
-          console.log("install.bat created");
         }
       );
-    });
-    // delete List.json
-    fs.unlink(path.join(__dirname, file_name), (err) => {
-      if (err) {
-        console.log(err);
-        return;
-      }
+      // delete List.json
+      fs.unlink(path.join(__dirname, file_name), (err) => {
+        if (err) {
+          console.log(err);
+          return;
+        }
+      });
+      console.log("\n\nPackages unavailable through winget");
+      console.log(
+        stdout
+          .split("\n")
+          .map((line) => {
+            return line.split(": ")[1];
+          })
+          .join("\n")
+      );
     });
   }
 );
