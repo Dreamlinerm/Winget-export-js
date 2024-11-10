@@ -37,7 +37,7 @@ exec(
         }
       );
     });
-    delete List.json;
+    // delete List.json
     fs.unlink(path.join(__dirname, file_name), (err) => {
       if (err) {
         console.log(err);
