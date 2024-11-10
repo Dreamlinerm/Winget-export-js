@@ -1,5 +1,6 @@
 # Winget-export-to-bat
- Generate a bat file to reinstall all programs with winget list
+
+Generate a bat file to reinstall all currently installed programs with winget.
 ## Usage
 
 ```bash
